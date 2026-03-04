@@ -1,4 +1,4 @@
-# 🧮 Neo Calculator
+# <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="40" height="40"> Neo Calculator
 
 > **The Ultimate All-in-One Offline Toolkit.**
 > *Privacy. Power. Precision.*
@@ -17,35 +17,11 @@
 
 ---
 
-## 🚀 Feature Arsenal
-
-### 🧠 Math & Education
-- **Equation Solver:** Solve Linear and Quadratic equations in seconds.
-- **Factorial (!):** Handle massive numbers with scientific precision.
-- **Standard Calculator:** Real-time history & advanced operators.
-
-### 🌍 Smart Converters
-- **Unit Converter:** Length, Area, Volume, Speed, Pressure, and more.
-- **Land Converter:** Dedicated tool for regional land measurements.
-- **Currency:** Offline currency conversion support.
-
-### 💼 Finance & Daily Life
-- **Fuel Cost:** Estimate trip expenses instantly.
-- **Investment:** Calculate ROI for SIPs and deposits.
-- **Discount & Tax:** Shop smarter by calculating final prices quickly.
-- **Unit Price:** Find the best deal between two products.
-
-### ❤️ Health
-- **BMI Calculator:** Track your health stats simply and privately.
-- **Age Calculator:** Get your exact age down to the minute.
-
----
-
 ## 📸 Screenshots
 
-| Dashboard | Pro Tools | Theming |
+| Dashboard | Pro Tools | Factiorial |
 |:---:|:---:|:---:|
-| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="200"/> |
+| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="200"/> |
 
 ---
 
