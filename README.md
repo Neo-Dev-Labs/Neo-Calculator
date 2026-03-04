@@ -19,9 +19,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Pro Tools | Factiorial |
+| Dashboard | Pro Tools | Converter Suite |
 |:---:|:---:|:---:|
-| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="200"/> |
+| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="200"/> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="200"/> |
 
 ---
 
